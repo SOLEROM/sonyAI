@@ -53,5 +53,5 @@ This process will generate a network.rpk file, which is the deployable package f
 ```bash
 git clone https://github.com/raspberrypi/picamera2.git
 cd picamera2/examples/imx500
-python imx500_classification_demo.py --model <RPK OUTPUT PATH>/network.rpk --preserve-aspect-ratio
+python imx500_classification_demo.py --model /home/user/packDemo1/network.rpk --preserve-aspect-ratio
 ```
