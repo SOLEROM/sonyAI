@@ -1,5 +1,7 @@
 # pack
 
+* run inside chroot imx sony env
+
 ```
 > /usr/lib/imx500-tools/packager/imx500-package.sh -i /proj/packDemo1/packerOut.zip  -o /proj/packDemo1
 

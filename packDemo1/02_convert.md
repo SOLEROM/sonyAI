@@ -1,5 +1,7 @@
 # convert
 
+run in venv
+
 ```
 > imxconv-pt -i ./qmodel.onnx -o convertOutput/ --overwrite-output
 
