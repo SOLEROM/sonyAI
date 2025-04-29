@@ -4,3 +4,6 @@
 
 ??  Metadata Output: Instead of transmitting images only, the IMX500 can output both image and metadata (inference result), and can output metadata only for minimizing data size, reducing bandwidth, and lowering costs.
 
+
+## faces?
+https://github.com/otroshi/edgeface
