@@ -2,3 +2,5 @@
 *.pt
 *datasets*
 *runs*
+yolov8n-face_imx_model
+yolov8n_imx_model
